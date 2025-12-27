@@ -1,4 +1,19 @@
+<div align="center">
+  <img src="../assets/tawabiry.svg" alt="Tawabiry Logo" width="150"/>
+  <br/>
+  <b>Tawabiry Research & Development Division</b>
+</div>
+
 # Tawabiry Queue Management: A Hybrid Preemptive Scheduling Model
+
+**Author:** [Hatem Soliman](https://linkedin.com/in/h4temsoliman)  
+**Affiliation:** Principal Researcher, [Tawabiry Systems](https://linkedin.com/company/tawabiry)  
+**Date:** April 18, 2025  
+**Classification:** RESTRICTED / PROPRIETARY  
+
+
+---
+
 
 ## Abstract
 
@@ -146,3 +161,12 @@ Future research directions include:
 3. Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts*. Wiley.
 4. Larson, R. C. (1987). Perspectives on queues: Social justice and the psychology of queueing. *Operations Research*, 35(6), 895-905.
 5. Norman, D. A. (2013). *The Design of Everyday Things: Revised and Expanded Edition*. Basic Books.
+
+---
+
+<div align="center">
+  <p><b>CONFIDENTIAL PROPERTY OF TAWABIRY</b></p>
+  <p><i>Research conducted by Hatem Soliman</i></p>
+  <p>Copyright © 2025 Tawabiry Systems. All rights reserved.</p>
+</div>
+

@@ -1,4 +1,19 @@
+<div align="center">
+  <img src="../assets/tawabiry.svg" alt="Tawabiry Logo" width="150"/>
+  <br/>
+  <b>Tawabiry Research & Development Division</b>
+</div>
+
 # AI-Driven Dynamic Queue Prediction: A Blackbox Integration of Queuing Theory and Machine Learning
+
+**Author:** [Hatem Soliman](https://linkedin.com/in/h4temsoliman)  
+**Affiliation:** Principal Researcher, [Tawabiry Systems](https://linkedin.com/company/tawabiry)  
+**Date:** December 26, 2025  
+**Classification:** RESTRICTED / PROPRIETARY  
+
+
+---
+
 
 ## Abstract
 
@@ -171,6 +186,9 @@ Dense Layer: 32 units, ReLU activation
      ↓
 Output Layer: 2 units [predicted_wait, uncertainty_std]
 ```
+
+> **Note on Initialization**: We explicitly initialize the forget gate biases ($b_f$) of the LSTM units to $1.0$ (following *Jozefowicz et al.*) to mitigate the vanishing gradient problem during the initial phases of training.
+
 
 **Feature Engineering**:
 
@@ -420,3 +438,12 @@ feature_vector = {
     'time_since_last_departure': float
 }
 ```
+
+---
+
+<div align="center">
+  <p><b>CONFIDENTIAL PROPERTY OF TAWABIRY</b></p>
+  <p><i>Research conducted by Hatem Soliman</i></p>
+  <p>Copyright © 2025 Tawabiry Systems. All rights reserved.</p>
+</div>
+
