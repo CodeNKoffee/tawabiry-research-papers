@@ -7,7 +7,7 @@
 # Tawabiry Queue Management: A Hybrid Preemptive Scheduling Model
 
 **Author:** [Hatem Soliman](https://linkedin.com/in/h4temsoliman)  
-**Affiliation:** Principal Researcher, [Tawabiry Systems](https://linkedin.com/company/tawabiry)  
+**Affiliation:** Principal Researcher, [Tawabiry](https://linkedin.com/company/tawabiry)  
 **Date:** April 18, 2025  
 **Classification:** RESTRICTED / PROPRIETARY  
 
@@ -167,6 +167,6 @@ Future research directions include:
 <div align="center">
   <p><b>CONFIDENTIAL PROPERTY OF TAWABIRY</b></p>
   <p><i>Research conducted by Hatem Soliman</i></p>
-  <p>Copyright © 2025 Tawabiry Systems. All rights reserved.</p>
+  <p>Copyright © 2025 Tawabiry. All rights reserved.</p>
 </div>
 

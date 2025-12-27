@@ -36,13 +36,13 @@ These papers represent the intersection of **Theory of Computation** and **Mass-
 
 ## Citation
 
-If referencing these methodologies, please cite the respective documents as internal technical reports for Tawabiry Systems.
+If referencing these methodologies, please cite the respective documents as internal technical reports for Tawabiry.
 
 ---
 
 <div align="center">
   <p><b>CONFIDENTIAL & PROPRIETARY</b></p>
-  <p>Copyright © 2025 <a href="https://linkedin.com/company/tawabiry">Tawabiry Systems</a>. All Rights Reserved.</p>
+  <p>Copyright © 2025 <a href="https://linkedin.com/company/tawabiry">Tawabiry</a>. All Rights Reserved.</p>
   <p><i>Principal Researcher: <a href="https://linkedin.com/in/h4temsoliman">Hatem Soliman</a></i></p>
   <p><small>This documentation is the sole property of Tawabiry. Unauthorized reproduction or distribution is strictly prohibited.</small></p>
 </div>
