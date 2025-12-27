@@ -7,7 +7,7 @@
 # AI-Driven Dynamic Queue Prediction: A Blackbox Integration of Queuing Theory and Machine Learning
 
 **Author:** [Hatem Soliman](https://linkedin.com/in/h4temsoliman)  
-**Affiliation:** Principal Researcher, [Tawabiry](https://linkedin.com/company/tawabiry)  
+**Affiliation:** Co-Founder & Principal Researcher, [Tawabiry](https://linkedin.com/company/tawabiry)  
 **Date:** December 26, 2025  
 **Classification:** RESTRICTED / PROPRIETARY  
 

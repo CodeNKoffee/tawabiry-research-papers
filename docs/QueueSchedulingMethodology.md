@@ -7,7 +7,7 @@
 # Tawabiry Queue Management: A Hybrid Preemptive Scheduling Model
 
 **Author:** [Hatem Soliman](https://linkedin.com/in/h4temsoliman)  
-**Affiliation:** Principal Researcher, [Tawabiry](https://linkedin.com/company/tawabiry)  
+**Affiliation:** Co-Founder & Principal Researcher, [Tawabiry](https://linkedin.com/company/tawabiry)  
 **Date:** April 18, 2025  
 **Classification:** RESTRICTED / PROPRIETARY  
 
