@@ -444,6 +444,6 @@ feature_vector = {
 <div align="center">
   <p><b>CONFIDENTIAL PROPERTY OF TAWABIRY</b></p>
   <p><i>Research conducted by Hatem Soliman</i></p>
-  <p>Copyright © 2025 Tawabiry. All rights reserved.</p>
+  <p>Copyright © 2026 Tawabiry. All rights reserved.</p>
 </div>
 
